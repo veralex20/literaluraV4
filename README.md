@@ -27,4 +27,4 @@ Una vez que ejecutes el programa, verás el siguiente menú donde podrás elegir
 						0) Salir</p>
 
 <h2>Autores del proyecto</h2>
-Este "Practicando con Java: Challenge Conversor de Monedas" es desarrollado por Alexis Vergara, Chileno, principiante en el mundo de la programación.
+Este "Practicando con Java: Challenge Literalura" es desarrollado por Alexis Vergara, Chileno, principiante en el mundo de la programación.
